@@ -20,7 +20,7 @@ In today's world, fake news has become an ever-increasing concern. Our project s
 
 ## The Dataset
 
-Our project relies on a meticulously curated dataset of news articles, which you can access [here](insert dataset link). This dataset comes fully labeled, with each article categorized as either fake or real.
+Our project relies on a meticulously curated dataset of news articles, which you can access [here]. This dataset comes fully labeled, with each article categorized as either fake or real.
 
 ## Requirements
 
