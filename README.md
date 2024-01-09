@@ -47,7 +47,7 @@ Let's get you up and running with our project:
 2. Navigate into the project directory:
 
    ```bash
-   cd fake-news-detection
+   cd Fake-News-Detection-main
    ```
 
 3. Install all the necessary packages using pip:
